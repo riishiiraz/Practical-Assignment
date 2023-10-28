@@ -6,8 +6,8 @@
 
 void main()
 {
-    int n, i;
-    char city[20], ch;
+    int n, i, ch;
+    char city[20];
 
     FILE *file;
     file = fopen("data.txt", "w+");
