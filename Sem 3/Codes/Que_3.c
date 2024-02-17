@@ -58,13 +58,14 @@ void main(){
 
     int choice, temp;
 
+    printf("\nEnter : \n");
+    printf("1. for Enqueue\n");
+    printf("2. for Dequeue\n");
+    printf("3. for Peek\n");
+    printf("4. for Display\n");
+    printf("5. for Exit\n");
+    
     while(1){
-        printf("\nEnter : \n");
-        printf("1. for Enqueue\n");
-        printf("2. for Dequeue\n");
-        printf("3. for Peek\n");
-        printf("4. for Display\n");
-        printf("5. for Exit\n");
 
         printf("Choice [1-5] : ");
         scanf("%d",&choice);

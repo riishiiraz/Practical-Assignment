@@ -57,13 +57,14 @@ void main(){
 
     int choice, temp;
 
-    while(1){
-        printf("\nEnter : \n");
-        printf("1. for Push\n");
-        printf("2. for Pop\n");
-        printf("3. for Peek\n");
-        printf("4. for Display\n");
-        printf("5. for Exit\n");
+    printf("\nEnter : \n");
+    printf("1. for Push\n");
+    printf("2. for Pop\n");
+    printf("3. for Peek\n");
+    printf("4. for Display\n");
+    printf("5. for Exit\n");
+
+    while(1){ 
 
         printf("Choice [1-5] : ");
         scanf("%d",&choice);
