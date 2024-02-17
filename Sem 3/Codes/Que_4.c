@@ -15,8 +15,7 @@ struct Node *top = NULL;
 
 void push(int item){
 
-    // struct Node* newNode = malloc(sizeof(struct Node));
-    struct Node* newNode = (struct Node*) malloc(sizeof(struct Node));
+    struct Node* newNode = malloc(sizeof(struct Node));
 
     if(newNode==NULL){
         printf("Overflow !\n");
