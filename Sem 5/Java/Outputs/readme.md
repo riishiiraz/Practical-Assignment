@@ -4,6 +4,6 @@
 will be updated soon
 ```
 
-*Will Java Output related stuff*
+*Will Contain Java Output related stuff*
 
 Goodbye `:)`
