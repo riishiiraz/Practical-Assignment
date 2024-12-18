@@ -1,9 +1,9 @@
-## This is Empty
+## Sup !
 
 ```
-will be updated soon
+will be added remaining soon
 ```
 
-*Will Contain Java Output related stuff*
+*Contain Java Output related stuff*
 
 Goodbye `:)`
